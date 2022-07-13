@@ -24,7 +24,7 @@
     list-style-type: none;
 }
 
-.Weather img {
+.Weather .weather-icon {
     width: 64px;
     margin-right: 5px;
     float: left;
